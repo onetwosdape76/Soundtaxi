@@ -204,4 +204,4 @@ SoundTaxi is available as a complete free version with all features and updates 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-08 08:43:53 UTC
+**Last updated:** 2026-10-08 16:18:38 UTC
